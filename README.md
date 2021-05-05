@@ -4,11 +4,11 @@ Project ID: PW21VB02
 Project Title: Lightweight Cryptography Algorithms for securing IoT-Health Care Data.
 
 Team Members: V Nayana (PES1201701580)
-              Prathusha K (PES1201701831)
-              Manasa H K (PES1201701886)
-              Aishwarya M M (PES1201802368)
+Prathusha K (PES1201701831)
+Manasa H K (PES1201701886)
+Aishwarya M M (PES1201802368)
               
-Project Guide: Assistant Prof. Vineetha 
+Project Guide: Assistant Prof. Vineetha B 
 
 Steps for Execution:
 
