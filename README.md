@@ -13,14 +13,16 @@ Project Guide: Assistant Prof. Vineetha B
 Steps for Execution:
 
 PRESENT
-1. Run "present.c".
+1. Run "Present.c".
 2. Enter a 64-bit plaintext in hexadecimal format.
 3. Enter a 80-bit key in hexadecimal format.
 4. Encryption of the plaintext into cipher text is performed.
 5. Decryption of the same encipher is performed to obtain the original plaintext.
 	
 ASCON
-1. Run ascon.py.
+1. Run "Ascon.py".
 2. We send a key, nonce, associated data, plaintext and variant as input.
 3. Data of plaintext is processed which takes ascon state, intermediate rounds, which returns the cipher text.
 4. For decryption a similar process like present is carried out, but it uses inverse permutation table and inverse s-box to get back the plain text.  
+
+The 'Project code and executables.pdf' file contains the output obtained
