@@ -25,4 +25,4 @@ ASCON
 3. Data of plaintext is processed which takes ascon state, intermediate rounds, which returns the cipher text.
 4. For decryption a similar process like present is carried out, but it uses inverse permutation table and inverse s-box to get back the plain text.  
 
-The 'Project code and executables.pdf' file contains the output obtained
+The 'Project Code and executables.pdf' file contains the output obtained
